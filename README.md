@@ -2,7 +2,7 @@
 
 
 
-Curso de Git \& GitHub do Teo Me Why que ensina a trbalahar com versionamento de código e repositórios remotos com o GitHub.
+Curso de Git & GitHub do Teo Me Why que ensina a trbalahar com versionamento de código e repositórios remotos com o GitHub.
 
 
 
